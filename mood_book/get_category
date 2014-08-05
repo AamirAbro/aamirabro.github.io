@@ -1,1 +1,1 @@
-[{"category" : "asdf2"}, {"category" : "aasdfnvsadfsdf"}]
+[{"id" : 1, "category" : "Family"}, {"id" : 2, "category" : "Property"}, {"id" : 3, "category" : "Vehicles"},{"id" : 4, "category" : "Greetings"},{"id" : 5, "category" : "Clothes"}]
